@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/To-The-Stars-Travel/static/css/main.2f72e1ed.css",
+    "main.js": "/To-The-Stars-Travel/static/js/main.e992c4d8.js",
+    "static/media/space.mp4": "/To-The-Stars-Travel/static/media/space.41584ed51700d249bf73.mp4",
+    "static/media/heroImg.jpg": "/To-The-Stars-Travel/static/media/heroImg.717ecc48caf23ce480de.jpg",
+    "static/media/moon.jpg": "/To-The-Stars-Travel/static/media/moon.91396c73f099b0f6971b.jpg",
+    "static/media/pod.jpg": "/To-The-Stars-Travel/static/media/pod.30776f82b7df80237211.jpg",
+    "index.html": "/To-The-Stars-Travel/index.html",
+    "main.2f72e1ed.css.map": "/To-The-Stars-Travel/static/css/main.2f72e1ed.css.map",
+    "main.e992c4d8.js.map": "/To-The-Stars-Travel/static/js/main.e992c4d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f72e1ed.css",
+    "static/js/main.e992c4d8.js"
+  ]
+}
